@@ -12,7 +12,6 @@ Un projet complet d'apprentissage automatique pour détecter les fausses nouvell
 - [Installation](#-installation)
 - [Utilisation](#-utilisation)
 - [Résultats](#-résultats)
-- [Contribution](#-contribution)
 
 ## 🎯 Aperçu du Projet
 
