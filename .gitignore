@@ -25,3 +25,6 @@ __pycache__/
 final_results.json
 saved_tokenizer/
 image_transform.pkl
+
+
+clean_widgets.py
