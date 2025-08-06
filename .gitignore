@@ -1,6 +1,27 @@
+# Dossiers de données volumineux
 image_final_ancien/
 FakeNewsNetData/
+checkpoints/
 env/
-*.ipynb_checkpoints/
+
+# Fichiers temporaires et de cache
 __pycache__/
+*.ipynb_checkpoints/
 *.DS_Store
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+*.checkpoint
+
+# Fichiers de modèle et transformations
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Résultats exportés
+final_results.json
+saved_tokenizer/
+image_transform.pkl
